@@ -1,4 +1,4 @@
-<img width="1891" height="864" alt="image" src="https://github.com/user-attachments/assets/d72fd1d0-927c-40ea-8cd0-8fa70bc596bf" /><img width="1891" height="864" alt="image" src="https://github.com/user-attachments/assets/51b5ebb6-c2b5-4dfd-b01d-dde190e12a89" />
+<img width="1891" height="864" alt="image" src="https://github.com/user-attachments/assets/d72fd1d0-927c-40ea-8cd0-8fa70bc596bf" />
 
 # arc-agent-starter
 
